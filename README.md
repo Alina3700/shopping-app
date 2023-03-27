@@ -1,1 +1,2 @@
-# shopping-app
+# Online Shopping Application
+This project is an online shopping application built on a microservices architecture. It consists of three services: Product Service, Order Service and Inventory Service. For storing data Product Service use a MongoDB database, while Order Service and Inventory Service uses PostgreSQL. The WebClient is used for synchronous communication between microservices. Additionally, Keycloak is implemented to achieve secure identity and access management in the system.
