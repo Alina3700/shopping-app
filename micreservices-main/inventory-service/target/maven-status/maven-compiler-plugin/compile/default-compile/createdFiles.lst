@@ -1,0 +1,5 @@
+com\shoppingApp\inventoryservice\model\Inventory.class
+com\shoppingApp\inventoryservice\controller\InventoryController.class
+com\shoppingApp\inventoryservice\InventoryServiceApplication.class
+com\shoppingApp\inventoryservice\repository\InventoryRepository.class
+com\shoppingApp\inventoryservice\service\InventoryService.class

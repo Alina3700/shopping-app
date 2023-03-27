@@ -1,0 +1,9 @@
+com\shoppingApp\orderservice\dto\OrderLineItemsDto.class
+com\shoppingApp\orderservice\model\OrderLineItems.class
+com\shoppingApp\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\shoppingApp\orderservice\controller\OrderController.class
+com\shoppingApp\orderservice\repository\OrderRepository.class
+com\shoppingApp\orderservice\OrderServiceApplication.class
+com\shoppingApp\orderservice\model\Order.class
+com\shoppingApp\orderservice\service\OrderService.class
+com\shoppingApp\orderservice\dto\OrderRequest.class

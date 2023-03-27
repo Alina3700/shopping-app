@@ -1,0 +1,8 @@
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\OrderServiceApplication.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\dto\OrderRequest.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\model\Order.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\service\OrderService.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\repository\OrderRepository.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\controller\OrderController.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\model\OrderLineItems.java
+C:\Users\Anna\IdeaProjects\microservices-parent\micreservices-main\order-service\src\main\java\com\shoppingApp\orderservice\dto\OrderLineItemsDto.java
